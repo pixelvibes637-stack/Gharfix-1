@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Icon Container / Shield Plate (Safe Zone ~66dp) -->
+    <!-- Left Wing of Modern Home Roof & Wall (Clean White/Teal Tone) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L26,48 L32,53 L36,50 L36,78 C36,80 38,82 40,82 L50,82 L50,62 L54,62 Z" />
+        
+    <!-- Right Wing of Modern Home Roof & Wall (Teal Accent Tone) -->
+    <path
+        android:fillColor="#83C5BE"
+        android:pathData="M54,26 L82,48 L76,53 L72,50 L72,78 C72,80 70,82 68,82 L58,82 L58,62 L54,62 Z" />
+        
+    <!-- Precision Wrench / Repair Keystone in Center Doorway -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51,54 L57,54 L57,78 L51,78 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M48,46 L60,46 L63,51 L59,56 L49,56 L45,51 Z" />
+    <path
+        android:fillColor="#0A4D68"
+        android:pathData="M52,48 L56,48 L58,51 L56,54 L52,54 L50,51 Z" />
+
+    <!-- Radiant Amber Energy Spark / Star in Top-Right Roofline -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M75,31 L78,36 L83,38 L78,40 L75,45 L72,40 L67,38 L72,36 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M75,34 L77,37 L80,38 L77,39 L75,42 L73,39 L70,38 L73,37 Z" />
+</vector>

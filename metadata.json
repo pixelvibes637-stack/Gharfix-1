@@ -1,0 +1,7 @@
+{
+  "name": "GharFix",
+  "description": "Har Ghar. Har Fix. Modern home-services marketplace connecting customers with verified professionals for Solar, Electrical, AC, Plumbing, CCTV, RO and more in Chandrapur, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
